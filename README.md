@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋 I'm Emmanuel Essien
 
-<!--
-**emmanuelessien-dev/emmanuelessien-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Data Enthusiast | Cloud Learner | IoT Innovator | STEM Advocate
 
-Here are some ideas to get you started:
+I am passionate about building intelligent systems and practical technology solutions that solve real-world problems, particularly in developing communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on projects in:
+
+☁️ Cloud Computing (AWS Solutions Architecture)  
+📊 Data Analytics & Business Intelligence  
+🤖 Artificial Intelligence & Machine Learning  
+🌐 Internet of Things (IoT)
+
+I also mentor young students in STEM and guide them to build innovative technology solutions.
+
+---
+
+## 🧠 Current Focus
+
+- AWS Cloud Architecture
+- Data Analytics & Business Intelligence
+- AI & Machine Learning Engineering
+- IoT Systems for Smart Infrastructure
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming**
+Python | SQL | R
+
+**Cloud**
+AWS | S3 | EC2 | IAM | VPC
+
+**Data Analytics**
+Power BI | Excel | Pandas | NumPy
+
+**AI / ML**
+PyTorch | Hugging Face | NLP | Model Fine-tuning
+
+**IoT**
+ESP32 | Arduino | Sensors | Embedded Systems
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Smart Traffic Light System with IoT Monitoring  
+🔹 Phishing Email Detection using Machine Learning  
+🔹 Aeronautical Telecommunications AI Chatbot  
+🔹 Business Sales & Logistics Analytics Dashboard  
+🔹 Secure Cloud Architecture for Healthcare Systems
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuelessien-dev&show_icons=true)
+
+---
+
+## 🌍 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/emmanuel-essien01  
+Email: emmanuel.essien.y@gmail.com 
+
+---
+
+⭐ “Using technology to solve real-world problems and empower communities through innovation.”
